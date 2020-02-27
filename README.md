@@ -1,4 +1,4 @@
-### This repository is for React starter kit which includes Redux for state management and Redux-saga for side effects
+### React starter kit
 
 
 ## Starter kit includes following 
