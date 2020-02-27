@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##This respositorie is for React starter kit which includes Redux for state management and Redux-saga for side effects
 
 ## Available Scripts
 
